@@ -1,0 +1,29 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "chargily",
+  "license": "mit",
+  "category": "payments",
+  "description": {
+    "name": "Chargily",
+    "tagline": "Chargily is a payment gateway for CIB and Edahabia Cards",
+    "long": "Chargily Pay ™ support the most popular payment methods in Algeria and around the world: The CIB Banking Card, EDAHABIA.",
+    "features": [
+      "Integrates with CIB cards",
+      "Integrates with Edahabia cards"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/www.chargily.com\/",
+    "docs_url": "https:\/\/dev.chargily.com\/docs"
+  },
+  "authors": [
+    {
+      "name": "Piteur Studio",
+      "homepage": "https:\/\/www.piteur-studio.dz\/"
+    }
+  ]
+}
